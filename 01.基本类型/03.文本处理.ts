@@ -1,0 +1,1 @@
+// grapheme-splitter 是一个文本库，能够处理字符和书写位。

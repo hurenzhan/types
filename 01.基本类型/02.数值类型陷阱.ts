@@ -1,0 +1,1 @@
+// 使用两个整数类型，并防范上溢/下溢。因为 JavaScript 没有提供整数基本类型，所以我们需要依赖于 Number.isSafeInteger() 来防范圆整。
